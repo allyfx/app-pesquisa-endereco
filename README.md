@@ -1,6 +1,6 @@
-# 🔍Search local (Pesquisa Endereço)
+<h1 align="center">🔍Search local (Pesquisa Endereço)</h1>
 
- An application that allows you to search for a location based on your zip code.
+<p align="center">An application that allows you to search for a location based on your zip code.</p>
 
 ## 💡About
 
